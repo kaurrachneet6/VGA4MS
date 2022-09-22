@@ -86,6 +86,7 @@ To validate the estimates 3D poses via CoP computed on the treadmill
 
 ### Citation:
 If you use this code, please consider citing our work:
+
 (1) https://ieeexplore.ieee.org/document/9896159
 ```
 
