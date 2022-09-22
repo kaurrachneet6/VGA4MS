@@ -1,4 +1,6 @@
 # GVS: Gait Video Study 
+## A Vision-Based Framework for Predicting Multiple Sclerosis and Parkinson's Disease Gait Dysfunctions - A Deep Learning Approach
+This is the code for the paper R. Kaur, R. Motl, R. Sowers, and M. E. Hernandez "A Vision-Based Framework for Predicting Multiple Sclerosis and Parkinson's Disease Gait Dysfunctions - A Deep Learning Approach," in IEEE Journal of Biomedical and Health Informatics, doi: 10.1109/JBHI.2022.3208077., https://ieeexplore.ieee.org/document/9896159
 
 ### Authors:
 * Rachneet Kaur, Department of Industrial and Enterprise Systems Engineering at the University of Illinois at Urbana-Champaign, rk4@illinois.edu, https://kaurrachneet6.github.io/
@@ -84,7 +86,31 @@ To validate the estimates 3D poses via CoP computed on the treadmill
 
 ### Citation:
 If you use this code, please consider citing our work:
+(1) https://ieeexplore.ieee.org/document/9896159
 ```
 
+```
+(2) https://ieeexplore.ieee.org/document/9311191
+```
+@ARTICLE{9311191,  
+author={R. {Kaur} and Z. {Chen} and R. {Motl} and M. E. {Hernandez} and R. {Sowers}},  
+journal={IEEE Transactions on Biomedical Engineering},   
+title={Predicting Multiple Sclerosis from Gait Dynamics Using an Instrumented Treadmill – A Machine Learning Approach},   
+year={2020},  
+volume={},  
+number={},  
+pages={1-1},  
+doi={10.1109/TBME.2020.3048142}}
+```
 
+(3) https://ieeexplore.ieee.org/abstract/document/8857604
+```
+@inproceedings{kaur2019exploring,
+  title={Exploring Characteristic Features in Gait Patterns for Predicting Multiple Sclerosis},
+  author={Kaur, Rachneet and Menon, Sanjana and Zhang, Xiaomiao and Sowers, Richard and Hernandez, Manuel E},
+  booktitle={2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)},
+  pages={4217--4220},
+  year={2019},
+  organization={IEEE}
+}
 ```
