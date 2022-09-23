@@ -89,7 +89,15 @@ If you use this code, please consider citing our work:
 
 (1) https://ieeexplore.ieee.org/document/9896159
 ```
-
+@ARTICLE{9896159,
+  author={Kaur, Rachneet and Motl, Robert W. and Sowers, Richard and Hernandez, Manuel E.},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={A Vision-Based Framework for Predicting Multiple Sclerosis and Parkinson's Disease Gait Dysfunctions - A Deep Learning Approach}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/JBHI.2022.3208077}}
 ```
 (2) https://ieeexplore.ieee.org/document/9311191
 ```
